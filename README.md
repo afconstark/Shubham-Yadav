@@ -13,8 +13,8 @@ Unlike traditional HR, I use data and automation to solve people-problems. My fo
 | Project Name | Tools Used | Description & Impact |
 | :--- | :--- | :--- |
 | **📊 HR Attrition Dashboard** | *Excel / Power BI* | Visualized employee turnover data to identify retention risks across 3 departments. Reduced reporting time by 40%. |
-| **🤖 Auto-Onboarding Bot** | *Zapier / G-Forms* | Created an automated email sequence for new hires, ensuring 100% compliance with documentation on Day 1. |
-| **🚚 Event Logistics Planner** | *Operations / SOPs* | (Pinacle Events) Designed the resource allocation model for a high-volume workforce, optimizing shift scheduling. |
+| **🤖 Auto-Onboarding Bot** | *Zapier / G-Forms* | Creating an automated email sequence for new hires, ensuring 100% compliance with documentation on Day 1. |
+| **🚚 Event Logistics Planner** | *Operations / SOPs* | Designing the resource allocation model for a high-volume workforce, optimizing shift scheduling. |
 
 *[🔗 Click here to view the Project Screenshots & Case Studies](./Projects_Folder)*
 
@@ -35,7 +35,7 @@ Unlike traditional HR, I use data and automation to solve people-problems. My fo
 
 * **Bloom & Circle Blink** | *Volunteer*
     * Organized community drives and managed volunteer coordination.
-* **Class Representative** | *MIT-WPU*
+* **Class Representative** | 
     * Liaison between faculty and students for operational requirements.
  
  ---
