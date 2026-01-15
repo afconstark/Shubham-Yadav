@@ -1,4 +1,3 @@
-# Shubham-Yadav
 # Hi, I'm Shubham Yadav (Stark) 👋
 ### MBA (HR) | Digital HR & Operations Strategy
 
